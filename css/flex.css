@@ -1,0 +1,16 @@
+.row{
+    height: 500px;
+    width: 50%;
+    background-color: coral;
+    display: flex;
+    /* justify-content: right; */
+    /* justify-content: space-evenly; */
+    /* justify-content: space-between; */
+
+}
+.col{
+    height: 300px;
+    width: 100px;
+    background-color: cyan;
+    border: solid white 2px;
+}

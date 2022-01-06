@@ -1,0 +1,24 @@
+div{
+    height: 600px;
+    width: 256px;
+    background-color: black;
+    float: left;
+    /* border: white solid 2px; */
+    padding: 5px;
+    color: white;
+}
+img{
+    /* margin-left: 20px; */
+    /* margin-top: 20px; */
+    height: 184px;
+    width: 250px;
+}
+#ww{
+    height: 20px;
+    width: 246px;
+    border: white solid 2px;
+}
+body{
+    color: white;
+    background-color: black;
+}

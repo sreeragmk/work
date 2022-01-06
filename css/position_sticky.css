@@ -1,0 +1,16 @@
+div{
+    position: sticky;
+    height: 100px;
+    width: 100%;
+    background-color: brown;
+    top: 0px;
+    /* left: 300px; */
+}
+.class{
+    height: 500px;
+    width: 48%;
+    background-color: yellow;
+    float: left;
+    border: black solid 5px;
+    padding: 4px;
+}

@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Ceviche+One&family=Dancing+Script&display=swap');
+h1{
+    color: cyan;
+}
+#ss{
+    color: darkorange;
+}
+#dd{
+    color: fuchsia;
+}
+.rr{
+    color: green;
+}
+header{
+    background-color: yellow;
+}
+main{
+    color: palegreen;
+}
+/* footer{ */
+    /* color: rebeccapurple; */
+/* } */
+main{
+    background-color: rebeccapurple;
+    font-size: xx-large;
+    /* font-family: 'Ceviche One', cursive; */
+font-family: 'Dancing Script', cursive;
+}
+footer{
+    background-color: greenyellow;
+}
+p{
+    font-family: 'Ceviche One', cursive;
+    font-size: x-large;
+/* font-family: 'Dancing Script', cursive; */
+}
+/* #pq{ */
+    /* font-family: 'Ceviche One', cursive; */
+/* font-family: 'Dancing Script', cursive; */
+/* } */

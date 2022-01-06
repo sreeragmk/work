@@ -1,0 +1,13 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(214, 214, 235);
+    border: solid black 3px;
+    float: left;
+    color: cyan;
+    
+    
+}
+body{
+    background-color: darkkhaki;
+}

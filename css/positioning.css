@@ -1,0 +1,24 @@
+.parent{
+    height: 200px;
+    width: 500px;
+    background-color: aquamarine;
+    /* border: rgb(243, 24, 24) solid 2px; */
+    position:absolute;
+    /* static */
+    /* absolute */
+    /* relative */
+    /* fixed */
+    /* sticky */
+}
+.child{
+    position:absolute;
+    left: 30px  ;
+    height: 100px;
+    width: 300px;
+    background-color: rgb(159, 219, 18);
+    /* border: rgb(233, 114, 17) solid 2px; */
+
+}
+body{
+    background-color: black;
+}

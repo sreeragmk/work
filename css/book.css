@@ -1,0 +1,24 @@
+div{
+    height: 500px;
+    width: 24%;
+    background-color: rgb(182, 236, 32);
+    border: solid rgb(235, 96, 96);
+    float: left;
+    padding: 20px;
+}
+#ww{
+    height: 123px;
+    width: 93%;
+}
+#ee{
+    height: 143px;
+    width: 100%;
+}
+#rr{
+    height: 190px;
+    width: 100%;
+}
+#tt{
+    height: 200px;
+    width: 100%;
+}

@@ -1,0 +1,24 @@
+div{
+    height: 800px;
+    width: 290px;
+    padding: 20px;
+    background-color: rgb(233, 45, 45);
+    float: left;
+    border: coral;
+    border: solid white 1px;
+    
+    
+
+}
+div img{
+    height: 30%;
+    width: 100%;
+}
+#ee{
+    border: rgb(35, 250, 71) 2px solid;
+    height: 20px;
+    width: 250px;
+    padding: 10px;
+    padding-left: 100px;
+
+}

@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Ceviche+One&family=Dancing+Script&display=swap');
+.sss{
+    height: 75px;
+    width: 100%;
+    /* border: black solid 2px; */
+    background-color:rgb(252, 250, 242);
+    top: 0px;
+    color: red;
+    position: fixed;
+    position: sticky;
+}
+img{
+    height: 500px;
+    width: 100%;
+}
+body{
+    background-color: rgb(255, 245, 222);
+}
+h1{
+    /* font-family: 'Ceviche One', cursive; */
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+.class{
+    height: 500px;
+    width: 45%;
+    float: left;
+    /* background-color: black; */
+    /* border: solid white; */
+    padding: 30px;
+}
+
+
+#dv1{
+    float: left;
+    margin-top: -50px;
+    margin-left: 130px;
+}
+#dv2{
+    float: left;
+    margin-top: -50px;
+    margin-left: 230px;
+}
+#dv3{
+    float: left;
+    margin-top: -50px;
+    margin-left: 295px;
+}
+#img1{
+    height: 75px;
+    width: 75px;
+    
+    margin-right: 50px;
+}
+#dv4{
+    float: left;
+    margin-top: -50px;
+    margin-left: 410px;
+}
+#dv5{
+    float: left;
+    margin-top: -50px;
+    margin-left: 600px;
+}
+#dv6{
+    float: left;
+    margin-top: -50px;
+    margin-left: 825px;
+}
+#dv7{
+    float: left;
+    margin-top: -47px;
+    margin-left: 1100px;
+}
+#dv8{
+    float: left;
+    margin-top: -47px;
+    margin-left: 1150px;
+}
+#dv9{
+    float: left;
+    margin-top: -47px;
+    margin-left: 1200px;
+}
+.row{
+    height: 400px;
+    width: 100%;
+    /* background-color: aqua; */
+}
+.col{
+    float: left;
+    height: 300px;
+    width: 400px;
+    /* border: azure solid; */
+}
+.row1{
+    height: 100px;
+    width: 100%;
+    /* background-color: black; */
+}
+.col1{
+    float: left;
+    height: 100px;
+    width: 400px;
+    /* border: antiquewhite solid; */
+}
+#zz1{
+    margin-left: 140px;
+    margin-top: 50px;
+    height: 210px;
+    width: 350px;
+}
+#zz2{
+    margin-left: 93px;
+    margin-top: 50px;
+    height: 210px;
+    width: 342px;
+}
+#zz3{
+    margin-left: 38px;
+    margin-top: 50px;
+    height: 210px;
+    width: 310px;
+}
+#zz4{
+    margin-left: 140px;
+    margin-top: -135px;
+    height: 200px;
+    width: 350px;
+}
+#zz5{
+    margin-left: 93px;
+    margin-top: -135px;
+    height: 200px;
+    width: 342px;
+}
+#zz6{
+    margin-left: 38px;
+    margin-top: -135px;
+    height: 200px;
+    width: 310px;
+}
+#qry{
+    height: 300px;
+    width: 100%;
+    background-color: rgba(194, 192, 56, 0.281);
+    position: relative;
+}
+#mm1{
+    height: 200px;
+    width: 350px;
+    margin-top: -58px;
+    margin-left: 100px;
+}
+#mm2{
+    height: 200px;
+    width: 350px;
+    margin-top: -135px;
+    margin-left: 10px;
+}
+#mm3{
+    height: 200px;
+    width: 350px;
+    margin-top: -135px;
+    margin-left: 10px;
+}
+.loginn{
+    position: absolute;
+    height: 250px;
+    width: 50%;
+    background-color:blanchedalmond;
+    right: 100px;
+    left: 330px;
+}
+#frm1{
+    margin-top: 15px;
+}
+#main{
+    /* background-color: cyan; */
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.fix1{
+    height: 350px;
+    width: 37%;
+    /* background-color: darkseagreen; */
+}
+.fix2{
+    height: 350px;
+    width: 26%;
+    /* background-color: rgb(20, 59, 235); */
+}
+.fix3{
+    height: 350px;
+    width: 37%;
+    /* background-color: rgb(228, 231, 16); */
+}
+h2{
+    /* font-family: 'Ceviche One', cursive; */
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+
+}
+#typ{
+    height: 150px;
+    width: 50%;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.typ2{
+    height: 196px;
+    width: 50%;
+    margin-left: 246px;
+    margin-top: 0px;
+}
+#typ3{
+    height: 187px;
+    width: 50%;
+    margin-left: 0px;
+    margin-top: 9px;
+}
+#typ4{
+    height: 150px;
+    width: 50%;
+    margin-left: 247px;
+    margin-top: 0px;
+   
+}
+.last{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(250, 231, 187);
+    display: flex;
+    justify-content: space-evenly;
+}
+.last1{
+    height: 200px;
+    width: 30%;
+    
+
+}
+.last2{
+    height: 200px;
+    width: 60%;
+     
+
+}
+.last3{
+    height: 200px;
+    width: 30%;
+    
+}
+#csk{
+    margin-left: 140px;
+    margin-top: 70px;
+}
+h3{
+    font-family: 'Quicksand', sans-serif;
+}

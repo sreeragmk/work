@@ -1,0 +1,44 @@
+.row{
+    height: 500px;
+    width: 600px;
+    background-color: rgb(197, 71, 71);
+    border: blanchedalmond solid 2px;
+    position: relative;
+}
+.col{
+    height: 100px;
+    width: 100px;
+    border: springgreen  solid 2px;
+    
+
+}
+.col-1{
+    position: absolute;
+    background-color: thistle;
+    top: 10px;
+    
+}
+.col-2{
+    position: absolute;
+    background-color: yellow;
+    left: 120px;
+    top: 10px;
+}
+.col-3{
+    position: absolute;
+    left: 240px;
+    background-color: yellowgreen;
+    top: 10px;
+}
+.col-4{
+    position: absolute;
+    left: 360px;
+    background-color: violet;
+    top: 10px;
+}
+body{
+    background-image: url(./child-children-girl-happy.jpg);
+    background-size: cover;
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+}

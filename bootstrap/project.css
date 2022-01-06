@@ -1,0 +1,201 @@
+#uniq{
+background-color: wheat;
+height: 30px;
+width: 100%;
+text-align: center;
+margin-top: 15px;
+}
+#del{
+    height: 50px;
+    width: 100px;
+    size: 7x;
+}
+#fts{
+    height: 220px;
+    width: 330px;
+    margin-top: 10px;
+    margin-left: 100px;
+    
+}
+#imgss{
+    height: 800px;
+    width: 100%;
+    background-color: wheat;
+}
+#pop{
+    height: 60px;
+    /* background-color: aqua; */
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+#sps{
+    height: 170px;
+    width: 100%;
+    /* background-color: bisque; */
+    
+}
+#van{
+    margin-left: 120px;
+    margin-top: 50px;
+    height: 50px;
+    width: 50px;
+}
+#van1{
+    height: 50px;
+    width: 130px;
+    /* background-color: aqua; */
+    margin-top: 52px;
+    margin-left: 117px;
+}
+#cert{
+    margin-left: 330px;
+    margin-top: -150px;
+    height: 50px;
+    width: 50px;
+}
+.cert1{
+    height: 50px;
+    width: 100px;
+    /* background-color: aqua; */
+    margin-top: 52px;
+    margin-left: 340px;
+}
+.mny{
+    margin-left: 530px;
+    margin-top: -150px;
+    height: 50px;
+    width: 50px;
+}
+.mny1{
+    height: 50px;
+    width: 100px;
+    /* background-color: aqua; */
+    margin-top: 52px;
+    margin-left: 520px;
+}
+.tik{
+    margin-left: 730px;
+    margin-top: -150px;
+    height: 50px;
+    width: 50px;
+}
+.tik1{
+    height: 50px;
+    width: 150px;
+    /* background-color: aqua; */
+    margin-top: 52px;
+    margin-left: 720px;
+}
+.sett{
+    margin-left: 930px;
+    margin-top: -150px;
+    height: 50px;
+    width: 50px;
+}
+.sett1{
+    height: 50px;
+    width: 150px;
+    /* background-color: aqua; */
+    margin-top: 52px;
+    margin-left: 900px;
+}
+.ret{
+    margin-left: 1100px;
+    margin-top: -150px;
+    height: 50px;
+    width: 50px;
+}
+.ret1{
+    height: 50px;
+    width: 150px;
+    /* background-color: aqua; */
+    margin-top: 52px;
+    margin-left: 1100px;
+}
+.imagesss{
+    height: 780px;
+    width: 100%;
+    /* background-color: aqua; */
+    
+}
+#xsxs{
+    height: 230px;
+    width: 305px;
+    margin-top: 15px;
+    margin-left: 35px;
+}
+#cardss{
+    height: 50px;
+    width: 100%;
+    /* background-color: aqua; */
+    text-align: center;
+}
+#cdcd{
+    height: 400px;
+}
+#stk{
+    height: 40px;
+    width: 100px;
+    background-color: grey;
+    color: white;
+    position: fixed;
+    top: 700px;
+    left: 1400px;
+
+}
+#aass{
+    margin-top: 4px;
+}
+#mkmk{
+    height: 40px;
+    width: 100%;
+    /* background-color: aqua; */
+    text-align: center;
+    margin-top: 80px;
+}
+#vfvf{
+    height: 400px;
+    width: 100%;
+    /* background-color: aqua; */
+}
+#cddd{
+    height: 340px;
+    width: 33%;
+    /* background-color: cadetblue; */
+    float: left;
+    /* border: black solid 2px; */
+}
+#olol{
+    height: 300px;
+    width: 409px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#spll1{
+    height: 50px;
+    width: 280px;
+    /* background-color: rgb(145, 145, 196); */
+    margin-left: 153px;
+    margin-top: -68px;
+}
+#spll2{
+    height: 50px;
+    width: 280px;
+    /* background-color: rgb(18, 199, 108); */
+    margin-left: 605px;
+    margin-top: -51px;
+}
+#spll3{
+    height: 50px;
+    width: 280px;
+    /* background-color: rgb(211, 32, 157); */
+    margin-left: 1030px;
+    margin-top: -51px;
+}
+#mnb{
+    height: 300px;
+    width: 100%;
+    background-color: blue;
+    background: image 300px; ;
+}
